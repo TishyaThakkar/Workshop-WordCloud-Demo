@@ -11,4 +11,7 @@ Python
 4. Use `git add [fileName]` command to stage the file for commit
 5. Recheck the status of your repository
 6. Use the `git commit -m "[commit message]"` to commit your changes
-7. Open the python file in a python editor and complete the code where ever necessary
+7. Open the python file in a python editor and complete the code wherever necessary(Do not forget to uncomment the code block)
+8. Run the code
+9. Save the output to your local repository and follow the above steps to add it to your GitHub repo
+## Output
