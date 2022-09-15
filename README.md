@@ -15,3 +15,4 @@ Python
 8. Run the code
 9. Save the output to your local repository and follow the above steps to add it to your GitHub repo
 ## Output
+![WordCloud](Output/OutputImage.png)
