@@ -4,6 +4,7 @@ Python
 ## Prerequisite
 - wordcloud 1.5.0
 - matplotlib 3.0.3
+- numpy
 ## WordCloud
 Follow these steps to create your own word cloud
 1. Clone this repository to your GitHub by clicking on use this template.
