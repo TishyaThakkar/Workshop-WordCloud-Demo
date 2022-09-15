@@ -13,6 +13,7 @@ Python
 6. Use the `git commit -m "[commit message]"` to commit your changes
 7. Open the python file in a python editor and complete the code wherever necessary(Do not forget to uncomment the code block)
 8. Run the code
-9. Save the output to your local repository and follow the above steps to add it to your GitHub repo
+9. Save the output to your local repository and follow the above steps to commit the changes
+10. Next, push the changes to your GitHub repository using `git push [alias] [branh]`
 ## Output
 ![WordCloud](Output/OutputImage.png)
